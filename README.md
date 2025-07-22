@@ -10,7 +10,8 @@ The program processes a `cars.txt` file where each row contains:
 - the odometer reading,
 - and whether it was an exit (`0`) or an entry (`1`).
 
-The following tasks are solved:
+The program performs the following:
+
 1. Reads and stores the contents of the file.
 2. Displays which car was taken out last.
 3. Lists the traffic for a user-given day (who, when, and whether exit or entry).
